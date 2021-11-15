@@ -1,0 +1,15 @@
+.fundo{
+    background-position: left !important;
+    background-repeat: no-repeat;
+	position: relative;	
+}
+.label{
+	float: left;
+	position:absolute;
+	top: 200px;
+	left:200px;
+}
+
+.footeralign{
+	text-align: center;
+}
